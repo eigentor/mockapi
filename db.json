@@ -1,9 +1,15 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "title": "New movies in 2019", "author": "Martin Schreiber" },
+    { "id": 2, "title": "Buying furniture", "author": "Karl Umlaut" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "device_class" : [
+    { "id":  1, "name": "Smartphone"},
+    { "id":  2, "name": "Tablet"},
+    { "id":  3, "name": "Notebook"}
+  ]
 }
