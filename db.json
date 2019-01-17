@@ -20,6 +20,7 @@
     { "id":  8, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S8"},
     { "id":  10, "device_class_id": 2, "manufacturer_id": 1, "name": "iPad 2018"},
     { "id":  11, "device_class_id": 2, "manufacturer_id": 2, "name": "MediaPad M5"},
-    { "id":  12, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S4"}
+    { "id":  12, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S4"},
+    { "id":  12, "device_class_id": 3, "manufacturer_id": 1, "name": "Macbook Pro"}
   ]
 }
