@@ -1,15 +1,15 @@
 {
-  "device_class" : [
+  "device_classes" : [
     { "id":  1, "name": "Smartphone"},
     { "id":  2, "name": "Tablet"},
     { "id":  3, "name": "Notebook"}
   ],
-  "manufacturer" : [
+  "manufacturers" : [
     { "id":  1, "name": "Apple"},
     { "id":  2, "name": "Huawei"},
     { "id":  3, "name": "Samsung"}
   ],
-  "device" : [
+  "devices" : [
     { "id":  1, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6"},
     { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 7"},
     { "id":  3, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone X"},
