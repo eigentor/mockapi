@@ -22,5 +22,9 @@
     { "id":  10, "device_class_id": 2, "manufacturer_id": 2, "name": "MediaPad M5"},
     { "id":  11, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S4"},
     { "id":  12, "device_class_id": 3, "manufacturer_id": 1, "name": "Macbook Pro"}
+  ],
+  "device_node_matching" : [
+    {"source_id": 1, "drupal_id" :  14},
+    {"source_id": 8, "drupal_id" :  15}
   ]
 }
