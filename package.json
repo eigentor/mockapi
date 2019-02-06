@@ -1,0 +1,12 @@
+{
+  "name": "mock-api-server",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "private": true,
+  "devDependencies": {
+    "json-server": "0.14.0"
+  }
+}
