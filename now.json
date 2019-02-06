@@ -1,4 +1,7 @@
 {
   "name": "content-mockapi",
-  "version": 1
+  "version": 2,
+  "builds": [
+    { "src": "*.js", "use": "@now/node" }
+  ]
 }
