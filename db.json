@@ -1,8 +1,8 @@
 {
   "device_classes" : [
-    { "id":  1, "name": "Smartphone"},
-    { "id":  2, "name": "Tablet"},
-    { "id":  3, "name": "Notebook"}
+    { "id":  1, "name": "Smartphone", "language": "de"},
+    { "id":  2, "name": "Tablet", "language": "de"},
+    { "id":  3, "name": "Notebook", "language": "de"}
   ],
   "manufacturers" : [
     { "id":  1, "name": "Apple"},
