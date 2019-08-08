@@ -39,7 +39,7 @@
     { "id":  27, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab E 9.6"}
   ],
   "device_node_matching" : [
-    {"source_id": 4, "drupal_id" :  1898},
-    {"source_id": 8, "drupal_id" :  1899}
+    {"source_id": 4, "drupal_id" :  111},
+    {"source_id": 8, "drupal_id" :  112}
   ]
 }
