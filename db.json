@@ -41,7 +41,7 @@
     { "id":  27, "device_class_id": 3, "manufacturer_id": 4, "name": "Studio XPS M1340"},
     { "id":  28, "device_class_id": 3, "manufacturer_id": 4, "name": "Alienware 13"},
     { "id":  29, "device_class_id": 3, "manufacturer_id": 5, "name": "ProBook 455"},
-    { "id":  30, "device_class_id": 3, "manufacturer_id": 5, "name": "Pavillion 17"},
+    { "id":  30, "device_class_id": 3, "manufacturer_id": 5, "name": "Pavillion 17"}
   ],
   "device_node_matching" : [
     {"source_id": 4, "drupal_id" :  109},
