@@ -8,7 +8,8 @@
     { "id":  1, "name": "Apple"},
     { "id":  2, "name": "Huawei"},
     { "id":  3, "name": "Samsung"},
-    { "id":  4, "name": "Dell"}
+    { "id":  4, "name": "Dell"},
+    { "id":  5, "name": "HP"}
   ],
   "devices" : [
     { "id":  1, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6"},
@@ -39,8 +40,8 @@
     { "id":  26, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab E"},
     { "id":  27, "device_class_id": 3, "manufacturer_id": 4, "name": "Studio XPS M1340"},
     { "id":  28, "device_class_id": 3, "manufacturer_id": 4, "name": "Alienware 13"},
-    { "id":  29, "device_class_id": 3, "manufacturer_id": 4, "name": "Alienware 13 R2"},
-    { "id":  30, "device_class_id": 3, "manufacturer_id": 4, "name": "Alienware M15x"},
+    { "id":  29, "device_class_id": 3, "manufacturer_id": 5, "name": "ProBook 455"},
+    { "id":  30, "device_class_id": 3, "manufacturer_id": 5, "name": "Pavillion 17"},
   ],
   "device_node_matching" : [
     {"source_id": 4, "drupal_id" :  109},
