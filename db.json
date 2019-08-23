@@ -7,15 +7,16 @@
   "manufacturers" : [
     { "id":  1, "name": "Apple"},
     { "id":  2, "name": "Huawei"},
-    { "id":  3, "name": "Samsung"},
-    { "id":  4, "name": "Dell"},
-    { "id":  5, "name": "HP"}
+    { "id":  3, "name": "Samsung"}
   ],
   "devices" : [
     { "id":  1, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6"},
     { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6S"},
     { "id":  3, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 7"},
     { "id":  4, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 8"},
+    { "id":  5, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone X"},
+    { "id":  6, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone XS"},
+    { "id":  7, "device_class_id": 1, "manufacturer_id": 2, "name": "P9"},
     
     { "id":  11, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S6"},
     { "id":  12, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S7"},
@@ -33,10 +34,7 @@
     { "id":  24, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab A 2016 10.1"},
     { "id":  25, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S2 9.7 LTE"},
     { "id":  26, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab E"},
-    { "id":  27, "device_class_id": 3, "manufacturer_id": 4, "name": "Studio XPS M1340"},
-    { "id":  28, "device_class_id": 3, "manufacturer_id": 4, "name": "Alienware 13"},
-    { "id":  29, "device_class_id": 3, "manufacturer_id": 5, "name": "ProBook 455"},
-    { "id":  30, "device_class_id": 3, "manufacturer_id": 5, "name": "Pavillion 17"}
+    { "id":  27, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab E 9.6"}
   ],
   "device_node_matching" : [
     {"source_id": 4, "drupal_id" :  109},
