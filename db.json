@@ -10,8 +10,7 @@
     { "id":  3, "name": "Samsung"}
   ],
   "devices" : [
-    { "id":  1, "device_class_id": 1, "manufacturer_id": 1, "name": "Mein Opa fährt im Hühnerstall Motorrad"},
-    { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6S"},
+    { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "Kömpelpitt"},
     { "id":  3, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 7"},
     { "id":  4, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 8"},
     { "id":  5, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone X"},
