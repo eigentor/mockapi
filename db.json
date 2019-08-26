@@ -23,8 +23,8 @@
     { "id":  11, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S6"},
     { "id":  12, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S7"},
     { "id":  13, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S7 Edge"},
-    { "id":  14, "device_class_id": 1, "manufacturer_id": 3, "name": "Staubsauger"},
-    { "id":  15, "device_class_id": 1, "manufacturer_id": 3, "name": "Waschmaschine"},
+    { "id":  14, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S8"},
+    { "id":  15, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy A5"},
     { "id":  16, "device_class_id": 2, "manufacturer_id": 1, "name": "ipad Air 2 Wi-FI"},
     { "id":  17, "device_class_id": 2, "manufacturer_id": 1, "name": "ipad Air 2 LTE"},
     { "id":  18, "device_class_id": 2, "manufacturer_id": 1, "name": "iPad Pro"},
@@ -32,15 +32,7 @@
     { "id":  20, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab A"},
     { "id":  21, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab A 10.1"},
     { "id":  22, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab A 2016"},
-    { "id":  23, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S2"},
-    { "id":  24, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab A 2016 10.1"},
-    { "id":  25, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S2 9.7 LTE"},
-    { "id":  26, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab E"},
-    { "id":  27, "device_class_id": 3, "manufacturer_id": 4, "name": "Studio XPS M1340"},
-    { "id":  28, "device_class_id": 3, "manufacturer_id": 4, "name": "Alienware 13"},
-    { "id":  29, "device_class_id": 3, "manufacturer_id": 5, "name": "ProBook 455"},
-    { "id":  30, "device_class_id": 3, "manufacturer_id": 5, "name": "Pavillion 17"}
-  ],
+    { "id":  23, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S2"}
   "device_node_matching" : [
     {"source_id": 4, "drupal_id" :  109},
     {"source_id": 8, "drupal_id" :  110}
