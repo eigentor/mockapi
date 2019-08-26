@@ -33,6 +33,7 @@
     { "id":  21, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab A 10.1"},
     { "id":  22, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab A 2016"},
     { "id":  23, "device_class_id": 2, "manufacturer_id": 3, "name": "Galaxy Tab S2"}
+    ],
   "device_node_matching" : [
     {"source_id": 4, "drupal_id" :  109},
     {"source_id": 8, "drupal_id" :  110}
