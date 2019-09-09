@@ -8,8 +8,8 @@
     { "id":  1, "name": "Apple"},
     { "id":  2, "name": "Huawei"},
     { "id":  3, "name": "Samsung"},
-    { "id":  3, "name": "Dell"},
-    { "id":  3, "name": "HP"}
+    { "id":  4, "name": "Dell"},
+    { "id":  5, "name": "HP"}
   ],
   "devices" : [
     { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6"},
