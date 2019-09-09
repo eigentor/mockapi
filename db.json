@@ -21,7 +21,7 @@
     { "id":  8, "device_class_id": 1, "manufacturer_id": 2, "name": "P10"},
     { "id":  9, "device_class_id": 1, "manufacturer_id": 2, "name": "Mate 9"},
     { "id":  10, "device_class_id": 1, "manufacturer_id": 2, "name": "Mate 9"},
-    { "id":  11, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S6"},
+    { "id":  11, "device_class_id": 1, "manufacturer_id": 3, "name": "Geleksi S6"},
     { "id":  12, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S6+"},
     { "id":  13, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S7 Edge"},
     { "id":  14, "device_class_id": 1, "manufacturer_id": 3, "name": "Galaxy S8"},
