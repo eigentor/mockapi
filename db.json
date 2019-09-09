@@ -1,16 +1,18 @@
 {
   "device_classes" : [
-    { "id":  1, "name": "Dumbphone", "language": "de"},
+    { "id":  1, "name": "Smartphone", "language": "de"},
     { "id":  2, "name": "Tablet", "language": "de"},
     { "id":  3, "name": "Notebook", "language": "de"}
   ],
   "manufacturers" : [
     { "id":  1, "name": "Apple"},
     { "id":  2, "name": "Huawei"},
-    { "id":  3, "name": "Samsung"}
+    { "id":  3, "name": "Samsung"},
+    { "id":  3, "name": "Dell"},
+    { "id":  3, "name": "HP"}
   ],
   "devices" : [
-    { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "Kömpelpitt"},
+    { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6"},
     { "id":  3, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 7"},
     { "id":  4, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 8"},
     { "id":  5, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone X"},
