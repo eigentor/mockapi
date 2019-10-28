@@ -12,8 +12,8 @@
     { "id":  5, "name": "HP"}
   ],
   "devices" : [
-    { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 6"},
-    { "id":  3, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 7"},
+    { "id":  2, "device_class_id": 1, "manufacturer_id": 1, "name": "Otto Wilkens"},
+    { "id":  3, "device_class_id": 1, "manufacturer_id": 1, "name": "Helge Schreiber"},
     { "id":  4, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone 8"},
     { "id":  5, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone X"},
     { "id":  6, "device_class_id": 1, "manufacturer_id": 1, "name": "iPhone XS"},
